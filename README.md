@@ -10,7 +10,7 @@ Applying natural language processing to understand the sentiment in the latest n
 
 The results consists mainly of a sentiment analysis leading to the below answers:
 
-Questions:¶
+Questions:
 Q: Which coin had the highest mean positive score?
 
 A: Ethereum had the highest mean at 0.062800
@@ -26,7 +26,4 @@ A: Ethereum had the highest positive score.
 
 Afterwards, we concluded with a word cloud the main terms repeting in the news articles for both Bitcoin and Ethereum.
 
-![Bitcoin News Worldcloud](Images/Bitcoin News Worldcloud.jpg)
-
-
-![Ethereum News Worldcloud](Images/Ethereum News Worldcloud.jpg)
+To conclude with an NER for Bitcoin and Ethereum.
